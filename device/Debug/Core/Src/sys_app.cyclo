@@ -1,0 +1,17 @@
+stm32wlxx_ll_rcc.h:1971:22:LL_RCC_SetClkAfterWakeFromStop	1
+stm32wlxx_ll_system.h:1880:26:LL_FLASH_GetUDN	1
+stm32wlxx_ll_system.h:1890:26:LL_FLASH_GetDeviceID	1
+stm32wlxx_ll_system.h:1900:26:LL_FLASH_GetSTCompanyID	1
+sys_app.c:94:6:SystemApp_Init	1
+sys_app.c:145:6:UTIL_SEQ_Idle	1
+sys_app.c:156:9:GetBatteryLevel	3
+sys_app.c:188:9:GetTemperatureLevel	1
+sys_app.c:203:6:GetUniqueId	2
+sys_app.c:243:10:GetDevAddr	2
+sys_app.c:268:13:TimestampNow	1
+sys_app.c:282:6:UTIL_ADV_TRACE_PreSendHook	1
+sys_app.c:293:6:UTIL_ADV_TRACE_PostSendHook	1
+sys_app.c:304:13:tiny_snprintf_like	1
+sys_app.c:327:19:HAL_InitTick	1
+sys_app.c:342:10:HAL_GetTick	2
+sys_app.c:374:6:HAL_Delay	1

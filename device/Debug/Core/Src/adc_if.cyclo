@@ -1,0 +1,7 @@
+adc_if.c:87:6:SYS_InitMeasurement	1
+adc_if.c:98:6:SYS_DeInitMeasurement	1
+adc_if.c:105:9:SYS_GetTemperatureLevel	3
+adc_if.c:147:10:SYS_GetBatteryLevel	2
+adc_if.c:177:9:GetMoistureLevelDfRobot	1
+adc_if.c:189:9:GetMoistureLevel	1
+adc_if.c:202:17:ADC_ReadChannels	4

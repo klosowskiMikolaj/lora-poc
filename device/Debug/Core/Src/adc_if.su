@@ -1,0 +1,7 @@
+../Core/Src/adc_if.c:87:6:SYS_InitMeasurement	4	static
+../Core/Src/adc_if.c:98:6:SYS_DeInitMeasurement	4	static
+../Core/Src/adc_if.c:105:9:SYS_GetTemperatureLevel	16	static
+../Core/Src/adc_if.c:147:10:SYS_GetBatteryLevel	16	static
+../Core/Src/adc_if.c:177:9:GetMoistureLevelDfRobot	24	static
+../Core/Src/adc_if.c:189:9:GetMoistureLevel	24	static
+../Core/Src/adc_if.c:202:17:ADC_ReadChannels	32	static
