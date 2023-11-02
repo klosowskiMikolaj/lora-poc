@@ -1,4 +1,6 @@
 # lora-poc
+Ordered by NewLink Kamil Klepacki, made public due to missing final payment.
+Zamówione przez NewLink Kamil Klepacki, repozytorium upubliczone z powodu braku końcowej płatności.
 
 
 ## gateway
